@@ -2,4 +2,4 @@
 Tip calculator template with basic input checking. Will be further solidifying the input checking system at a later date!
 
 
-<img src="/demo/TipCalc.gif" width="720" height="480">
+<img src="/Demo/TipCalc.gif" width="720" height="480">
